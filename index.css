@@ -62,6 +62,10 @@ body{
     background: hsl(25, 97%, 53%);
     color: white;
 }
+#active{
+    background-color: hsl(217, 12%, 63%);
+    color: white;
+}
 button{
     width: 100%;
     padding: 15px;
